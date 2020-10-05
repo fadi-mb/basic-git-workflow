@@ -1,1 +1,1 @@
-this is the change of master 
+this is the change of 'conflicting branch'
